@@ -1,0 +1,3 @@
+Large Language Models
+
+A Large Language Model is trained on large collections of text to understand and generate language. It can answer questions, summarize information, and help draft content. An LLM may produce incorrect or outdated information, so important answers should be checked against reliable sources.

@@ -1,0 +1,3 @@
+Data Preparation
+
+Data preparation includes collecting, cleaning, transforming, and checking data before it is used by a machine learning model. Missing values, duplicate records, and inconsistent formats can reduce the quality of results. A clear data preparation process makes experiments more reliable.

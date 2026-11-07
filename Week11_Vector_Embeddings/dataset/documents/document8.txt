@@ -1,0 +1,3 @@
+Neural Networks
+
+Neural networks are machine learning models inspired by connected processing units. They contain layers that transform input data into useful representations. During training, the model adjusts its parameters to reduce prediction errors. Neural networks are used in image recognition, speech processing, and language applications.

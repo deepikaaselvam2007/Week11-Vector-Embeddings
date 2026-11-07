@@ -1,0 +1,3 @@
+Vector Databases
+
+A vector database stores numerical vectors called embeddings together with identifiers and metadata. It supports similarity search, which retrieves items whose vectors are close to a query vector. Vector databases are useful in recommendation systems, semantic search, and retrieval-augmented generation.

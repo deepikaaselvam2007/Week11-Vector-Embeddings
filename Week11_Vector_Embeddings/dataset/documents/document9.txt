@@ -1,0 +1,3 @@
+Semantic Similarity
+
+Semantic similarity estimates how closely two pieces of text are related in meaning. Two sentences can express similar ideas even when they use different words. Embedding models map text into vectors, and distance or similarity measures can compare those vectors.

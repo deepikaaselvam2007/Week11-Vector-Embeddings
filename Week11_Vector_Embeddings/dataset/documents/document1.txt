@@ -1,0 +1,3 @@
+AI in Education
+
+AI can support education by helping teachers prepare learning materials, summarize lessons, and provide practice questions. It can also help students understand difficult concepts through explanations at different levels. AI should support teachers rather than replace them. Schools should check accuracy, protect student data, and make sure every learner can access the tools.

@@ -1,0 +1,3 @@
+Responsible AI
+
+Responsible AI focuses on building and using AI systems in ways that are fair, safe, transparent, and accountable. Developers should consider privacy, bias, accessibility, and the impact on people. Human review is important when AI is used for high-impact decisions.

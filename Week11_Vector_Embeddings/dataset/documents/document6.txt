@@ -1,0 +1,3 @@
+AI for Healthcare Learning
+
+Artificial intelligence can assist healthcare professionals by organizing information, supporting image analysis, and helping identify patterns in medical data. AI tools are decision-support systems and should not replace qualified medical professionals. Patient privacy, validation, and careful oversight are essential.

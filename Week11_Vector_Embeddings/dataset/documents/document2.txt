@@ -1,0 +1,3 @@
+Machine Learning Basics
+
+Machine learning is a branch of artificial intelligence in which computer systems learn patterns from examples. A model is trained using data and then makes predictions or decisions on new data. Common learning approaches include supervised learning, unsupervised learning, and reinforcement learning. Data quality has a major effect on model performance.
